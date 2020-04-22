@@ -9,6 +9,11 @@
 			"music/liamshulker"
 			]
 	},
+	"music.liamshulkerr": {
+		"sounds": [
+			"music/liamshulker"
+			]
+	},
 	"music.steamtrain": {
 		"sounds": [
 			"music/steamtrain"
