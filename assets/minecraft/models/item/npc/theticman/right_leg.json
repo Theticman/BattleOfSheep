@@ -1,0 +1,6 @@
+{
+    "parent": "item/npc/alex/right_leg", 
+    "textures": {
+    	"0":"item/npc/skin/theticman"
+    }
+}

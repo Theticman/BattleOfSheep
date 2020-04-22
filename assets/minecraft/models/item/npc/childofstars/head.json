@@ -1,0 +1,6 @@
+{
+    "parent": "item/npc/alex/head", 
+    "textures": {
+    	"0":"item/npc/skin/childofstars"
+    }
+}

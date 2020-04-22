@@ -1,0 +1,9 @@
+{
+    "parent": "item/train/wagon1_main",
+	"display": {
+		"head": {
+			"translation": [-32, -26.75, 58.004],
+			"scale": [4, 4, 4]
+		}
+	}
+}

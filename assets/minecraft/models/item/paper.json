@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/paper"
+    },
+        "overrides": [
+          { "predicate": {"custom_model_data":1}, "model": "item/ticket/ticket"},
+		  { "predicate": {"custom_model_data":2}, "model": "item/ticket/ticket2"},
+		  { "predicate": {"custom_model_data":3}, "model": "item/ticket/ticket3"},
+		  { "predicate": {"custom_model_data":4}, "model": "item/ticket/ticket4"},
+		  { "predicate": {"custom_model_data":5}, "model": "item/ticket/ticket5"},
+		  { "predicate": {"custom_model_data":6}, "model": "item/ticket/ticket6"},
+		  { "predicate": {"custom_model_data":7}, "model": "item/ticket/ticket7"},
+		  { "predicate": {"custom_model_data":8}, "model": "item/ticket/ticket8"},
+		  { "predicate": {"custom_model_data":9}, "model": "item/ticket/ticket9"}
+        ]
+}

@@ -1,0 +1,30 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+        "overrides": [
+		  { "predicate": {"custom_model_data":10000}, "model": "item/train/locomotive1"},
+		  { "predicate": {"custom_model_data":10001}, "model": "item/train/locomotive1_2"},
+
+		  { "predicate": {"custom_model_data":10010}, "model": "item/train/locomotive2"},
+		  { "predicate": {"custom_model_data":10011}, "model": "item/train/locomotive2_2"},
+
+          { "predicate": {"custom_model_data":10100}, "model": "item/train/wagon1/wagon1_0"},
+          { "predicate": {"custom_model_data":10101}, "model": "item/train/wagon1/wagon1_1"},
+          { "predicate": {"custom_model_data":10102}, "model": "item/train/wagon1/wagon1_2"},
+          { "predicate": {"custom_model_data":10103}, "model": "item/train/wagon1/wagon1_3"},
+		  { "predicate": {"custom_model_data":10104}, "model": "item/train/wagon1/wagon1_4"},
+		  { "predicate": {"custom_model_data":10105}, "model": "item/train/wagon1/wagon1_5"},
+		  { "predicate": {"custom_model_data":10106}, "model": "item/train/wagon1/wagon1_6"},
+		  { "predicate": {"custom_model_data":10107}, "model": "item/train/wagon1/wagon1_7"},
+
+		  { "predicate": {"custom_model_data":10200}, "model": "item/train/small_wheel"},
+		  { "predicate": {"custom_model_data":10201}, "model": "item/train/big_wheel"},
+		  { "predicate": {"custom_model_data":10202}, "model": "item/train/axle"},
+		  { "predicate": {"custom_model_data":10203}, "model": "item/train/wheel_axis"},
+		  { "predicate": {"custom_model_data":10204}, "model": "item/train/piston_joint"},
+		  { "predicate": {"custom_model_data":10205}, "model": "item/train/piston"}
+
+        ]
+}

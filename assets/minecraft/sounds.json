@@ -1,0 +1,17 @@
+{
+	"music.liamcorbillard": {
+		"sounds": [
+			"music/liamcorbillard"
+			]
+	},
+	"music.liamshulker": {
+		"sounds": [
+			"music/liamshulker"
+			]
+	},
+	"music.steamtrain": {
+		"sounds": [
+			"music/steamtrain"
+			]
+	}
+}

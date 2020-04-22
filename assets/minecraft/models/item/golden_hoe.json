@@ -1,0 +1,38 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_hoe"
+    },
+        "overrides": [
+          { "predicate": {"custom_model_data":10000}, "model": "item/npc/steve/body"},
+          { "predicate": {"custom_model_data":10001}, "model": "item/npc/steve/head"},
+          { "predicate": {"custom_model_data":10002}, "model": "item/npc/steve/right_arm"},
+          { "predicate": {"custom_model_data":10003}, "model": "item/npc/steve/left_arm"},
+          { "predicate": {"custom_model_data":10004}, "model": "item/npc/steve/right_leg"},
+          { "predicate": {"custom_model_data":10005}, "model": "item/npc/steve/left_leg"},
+
+          { "predicate": {"custom_model_data":11000}, "model": "item/npc/alex/body"},
+          { "predicate": {"custom_model_data":11001}, "model": "item/npc/alex/head"},
+          { "predicate": {"custom_model_data":11002}, "model": "item/npc/alex/right_arm"},
+          { "predicate": {"custom_model_data":11003}, "model": "item/npc/alex/left_arm"},
+          { "predicate": {"custom_model_data":11004}, "model": "item/npc/alex/right_leg"},
+          { "predicate": {"custom_model_data":11005}, "model": "item/npc/alex/left_leg"},
+
+          { "predicate": {"custom_model_data":11010}, "model": "item/npc/theticman/body"},
+          { "predicate": {"custom_model_data":11011}, "model": "item/npc/theticman/head"},
+          { "predicate": {"custom_model_data":11012}, "model": "item/npc/theticman/right_arm"},
+          { "predicate": {"custom_model_data":11013}, "model": "item/npc/theticman/left_arm"},
+          { "predicate": {"custom_model_data":11014}, "model": "item/npc/theticman/right_leg"},
+          { "predicate": {"custom_model_data":11015}, "model": "item/npc/theticman/left_leg"},
+
+          { "predicate": {"custom_model_data":11020}, "model": "item/npc/childofstars/body"},
+          { "predicate": {"custom_model_data":11021}, "model": "item/npc/childofstars/head"},
+          { "predicate": {"custom_model_data":11022}, "model": "item/npc/childofstars/right_arm"},
+          { "predicate": {"custom_model_data":11023}, "model": "item/npc/childofstars/left_arm"},
+          { "predicate": {"custom_model_data":11024}, "model": "item/npc/childofstars/right_leg"},
+          { "predicate": {"custom_model_data":11025}, "model": "item/npc/childofstars/left_leg"},
+
+          { "predicate": {"custom_model_data":12000}, "model": "item/npc/accessory/cape"},
+          { "predicate": {"custom_model_data":12001}, "model": "item/npc/accessory/cape/mapmaker"}
+        ]
+}
