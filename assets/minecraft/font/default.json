@@ -1,0 +1,11 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/maps/tree.png",
+			"ascent": 10,
+			"height": 100,
+			"chars": ["\uE101"]
+		}
+	]
+}

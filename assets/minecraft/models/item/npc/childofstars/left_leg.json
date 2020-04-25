@@ -1,6 +1,0 @@
-{
-    "parent": "item/npc/alex/left_leg", 
-    "textures": {
-    	"0":"item/npc/skin/childofstars"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "item/npc/accessory/cape", 
-    "textures": {
-    	"0":"item/npc/cape/mapmaker"
-    }
-}
