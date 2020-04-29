@@ -1,0 +1,21 @@
+﻿{
+"The following are for gui texts": "",
+
+    "Maps name": "",
+        "lobby.gui.options.map_1.name": "Giant Trees",
+        "lobby.gui.options.map_2.name": "Robot Factory",
+        "lobby.gui.options.map_3.name": "Map 3",
+        "lobby.gui.options.map_4.name": "Map 4",
+        "lobby.gui.options.map_5.name": "Map 5",
+
+    "Maps desctipion": "",
+        "lobby.gui.options.map_1.description_0": "Des moutons volant qui explose",
+        "lobby.gui.options.map_1.description_1": "Eurk, on se croierait dans un",
+
+
+    "Maps lore": "",
+    "lobby.gui.options.maps.size": "Size",
+    "lobby.gui.options.maps.description": "Description",
+    "lobby.gui.options.maps.screenshots": "Screenshots"
+
+}
