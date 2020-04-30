@@ -9,13 +9,12 @@
         "lobby.gui.options.map_5.name": "Map 5",
 
     "Maps desctipion": "",
-        "lobby.gui.options.map_1.description_0": "Des moutons volant qui explose",
-        "lobby.gui.options.map_1.description_1": "Eurk, on se croierait dans un",
-
+        "lobby.gui.options.map_1.description_0": "bla bla bla bla bla",
+        "lobby.gui.options.map_1.description_1": "bla bla bla bla bla bla bla bla",
+        "lobby.gui.options.map_1.description_2": "bla bla bla bla bla bla bla bla",
 
     "Maps lore": "",
-    "lobby.gui.options.maps.size": "Size",
-    "lobby.gui.options.maps.description": "Description",
-    "lobby.gui.options.maps.screenshots": "Screenshots"
-
+        "lobby.gui.options.maps.size": "Size",
+        "lobby.gui.options.maps.description": "Description",
+        "lobby.gui.options.maps.screenshots": "Screenshots"
 }
