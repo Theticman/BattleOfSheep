@@ -9,9 +9,25 @@
         "lobby.gui.options.map_5.name": "Map 5",
 
     "Maps desctipion": "",
-        "lobby.gui.options.map_1.description_0": "bla bla bla bla bla",
-        "lobby.gui.options.map_1.description_1": "bla bla bla bla bla bla bla bla",
-        "lobby.gui.options.map_1.description_2": "bla bla bla bla bla bla bla bla",
+        "lobby.gui.options.map_1.description_0": "Desciption line 0",
+        "lobby.gui.options.map_1.description_1": "Desciption line 1",
+        "lobby.gui.options.map_1.description_2": "Desciption line 2",
+
+        "lobby.gui.options.map_2.description_0": "Desciption line 0",
+        "lobby.gui.options.map_2.description_1": "Desciption line 1",
+        "lobby.gui.options.map_2.description_2": "Desciption line 2",
+
+        "lobby.gui.options.map_3.description_0": "Desciption line 0",
+        "lobby.gui.options.map_3.description_1": "Desciption line 1",
+        "lobby.gui.options.map_3.description_2": "Desciption line 2",
+
+        "lobby.gui.options.map_4.description_0": "Desciption line 0",
+        "lobby.gui.options.map_4.description_1": "Desciption line 1",
+        "lobby.gui.options.map_4.description_2": "Desciption line 2",
+        
+        "lobby.gui.options.map_5.description_0": "Desciption line 0",
+        "lobby.gui.options.map_5.description_1": "Desciption line 1",
+        "lobby.gui.options.map_5.description_2": "Desciption line 2",
 
     "Maps lore": "",
         "lobby.gui.options.maps.size": "Size",
