@@ -3,8 +3,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/maps/map_1_0.png",
-			"ascent": 10,
-			"height": 100,
+			"ascent": 7,
+			"height": 107,
 			"chars": ["\uE101"]
 		}
 	]
