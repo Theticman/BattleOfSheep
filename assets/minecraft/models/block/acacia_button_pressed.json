@@ -1,7 +1,6 @@
 {
 	"credit": "Made by Theticman",
 	"textures": {
-		"particle": "block/spruce_trapdoor",
 		"texture": "block/spruce_trapdoor"
 	},
 	"elements": [
