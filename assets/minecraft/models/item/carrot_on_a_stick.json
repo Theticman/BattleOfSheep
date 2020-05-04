@@ -6,6 +6,7 @@
         "overrides": [
           { "predicate": {"custom_model_data":1}, "model": "item/inventory/ready"},
           { "predicate": {"custom_model_data":2}, "model": "item/inventory/not_ready"},
-          { "predicate": {"custom_model_data":3}, "model": "item/sheep/sheep_base"}
+          { "predicate": {"custom_model_data":3}, "model": "item/sheep/sheep_base"},
+          { "predicate": {"custom_model_data":4}, "model": "item/sheep/sheep_red"}
         ]
 }
