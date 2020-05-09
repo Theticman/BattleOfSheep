@@ -20,6 +20,22 @@
     "scoreboard.suffix.player": "player",
     "scoreboard.suffix.players": "players",
 
+"START texts":"",
+    "start.click_here":"Click here",
+    "start.start_battle":"Start battle",
+    "start.error":"Error!",
+    "start.error_0_0":"At least 2 ready players",
+    "start.error_0_1":"needed to start!",
+    "start.error_1_0":"A battle is already",
+    "start.error_1_1":"starting!",
+    "start.error_2_0":"A battle has already",
+    "start.error_2_1":"started!",
+    "start.want_to_battle":"wants to battle!",
+    "start.starting":"Starting in:",
+    "start.canceled_battle":"canceled battle!",
+    "start.cancel_battle":"Cancel battle",
+    "start.join_countdown.ready_up":"Ready up!",
+    "start.join_countdown.battle_starts":"Battle starts in:",
 
 
 "GUI texts": "",
