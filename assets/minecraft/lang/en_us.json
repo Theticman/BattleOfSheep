@@ -72,6 +72,8 @@
     "start.error_3_0": "A battle has already",
     "start.error_3_1": "started!",
     "start.error_4": "You're not in a team!",
+    "start.error_5": "You're already in that team!",
+    "start.error_6": "This team is full!",
     "start.want_to_battle": "wants to battle!",
     "start.starting": "Starting in:",
     "start.canceled_battle": "canceled battle!",
@@ -90,7 +92,7 @@
     "team_lobby.ready": "Ready!",
     "team_lobby.player": "Player:",
     "team_lobby.players": "Players:",
-
+    "team_lobby.edit_team.tip": "Click the barrel with your key to edit your team banner!",
 
 "GUI texts": "",
     "Maps desctipion": "",
