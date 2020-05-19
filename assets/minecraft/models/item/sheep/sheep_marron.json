@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/sheep/orange_sheep_texture2",
-		"particle": "item/sheep/orange_sheep_texture2"
+		"1": "item/sheep/brown_sheep_texture",
+		"particle": "item/sheep/brown_sheep_texture"
 	},
 	"elements": [
 		{
