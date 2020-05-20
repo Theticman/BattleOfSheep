@@ -33,6 +33,13 @@
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\uE110"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/sheep.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE111"]
 		}
 	]
 }
