@@ -120,5 +120,8 @@
     "Maps lore": "",
         "lobby.gui.options.maps.size": "Size",
         "lobby.gui.options.maps.description": "Description",
-        "lobby.gui.options.maps.screenshots": "Screenshots"
+        "lobby.gui.options.maps.screenshots": "Screenshots",
+
+"DO NOT TRANSLATE": "",
+    "space.-1": "\uF801%s"
 }
