@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "custom/pixel.png",
             "ascent": -32768,
-            "height": -3,
+            "height": -4,
             "chars": [
                 "\uF801"
             ]
@@ -20,7 +20,7 @@
 			"type": "bitmap",
 			"file": "minecraft:custom/gui/maps/map_test.png",
 			"ascent": 7,
-			"height": 40,
+			"height": 30,
 			"chars": [
 				"\uE101\uE102\uE103",
 				"\uE104\uE105\uE106",
