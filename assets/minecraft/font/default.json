@@ -2,17 +2,24 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/maps/map_1_0.png",
+			"file": "minecraft:custom/gui/maps/map_1_0.png",
 			"ascent": 7,
 			"height": 107,
 			"chars": ["\uE101"]
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:custom/gui/maps/map_1_1.png",
+			"ascent": 7,
+			"height": 107,
+			"chars": ["\uE102"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:custom/teams_pattern/bow.png",
 			"ascent": 8,
 			"height": 10,
-			"chars": ["\uE102"]
+			"chars": ["\uE103"]
 		}
 	]
 }
