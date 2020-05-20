@@ -40,6 +40,55 @@
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\uE111"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/devil.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE112"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/globe.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE113"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/flower.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE114"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/sword.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE115"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/flame.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE116"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/ninja.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE117"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/shield.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE118"]
 		}
 	]
 }
