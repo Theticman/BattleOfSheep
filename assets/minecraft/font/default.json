@@ -6,89 +6,30 @@
             "ascent": -32768,
             "height": -4,
             "chars": [
-                "\uF801"
+                "\uEFFF"
             ]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/teams_pattern/pattern_grid.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"\uE001\uE002\uE003",
+				"\uE004\uE005\uE006",
+				"\uE007\uE008\uE009"
+			]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:custom/gui/maps/map_1_0.png",
 			"ascent": 7,
-			"height": 107,
-			"chars": ["\uE100"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/gui/maps/map_test.png",
-			"ascent": 7,
 			"height": 30,
 			"chars": [
-				"\uE101\uE102\uE103",
-				"\uE104\uE105\uE106",
-				"\uE107\uE108\uE109"
+				"\uE111\uE112\uE113",
+				"\uE114\uE115\uE116",
+				"\uE117\uE118\uE119"
 			]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/bow.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE110"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/sheep.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE111"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/devil.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE112"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/globe.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE113"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/flower.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE114"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/sword.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE115"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/fire.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE116"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/ninja.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE117"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:custom/teams_pattern/shield.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE118"]
 		}
 	]
 }
