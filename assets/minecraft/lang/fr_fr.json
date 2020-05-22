@@ -107,7 +107,7 @@
     "START texts": "",
         "start.click_here": "Cliquer ici",
         "start.start_battle": "Commencer la bataille",
-        "start.error": "Eurreur!",
+        "start.error": "Erreur!",
         "start.error_0_0": "Au moins deux joueurs prêts",
         "start.error_0_1": "sont requis pour commencer !",
         "start.error_1_0": "Une bataille est déjà",
