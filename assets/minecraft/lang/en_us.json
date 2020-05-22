@@ -96,7 +96,6 @@
         "general.team_name_9_9": "Gray ninja",
 
 
-
 "SCOREBOARD texts": "",
     "scoreboard.prefix.map": "Map:",
     "scoreboard.prefix.mode": "Mode:",
@@ -131,6 +130,7 @@
     "start.key.team_2": "Key team 2",
     "start.display_team": "The team: %s!",
 
+
 "TEAM LOBBY": "",
     "team_lobby.randomize_team": "Randomize teams",
     "team_lobby.leave_team": "Leave team",
@@ -141,29 +141,27 @@
     "team_lobby.players": "Players:",
     "team_lobby.edit_team.tip": "Click the barrel with your banner to edit it!",
 
-"GUI texts": "",
+
+"GUI": "",
     "General": "",
         "gui.selected": "SELECTED",
         "gui.click_to_select": "Click to SELECT",
+        "gui.click_to_change": "Click to CHANGE",
         "gui.locked": "LOCKED",
 
     "Maps desctipion": "",
         "gui.options.map_1.description_0": "Battle on top of branches,",
         "gui.options.map_1.description_1": "right under the canopy. Be carful with",
         "gui.options.map_1.description_2": "the island, it's deadly!",
-
         "gui.options.map_2.description_0": "Desciption line 0",
         "gui.options.map_2.description_1": "Desciption line 1",
         "gui.options.map_2.description_2": "Desciption line 2",
-
         "gui.options.map_3.description_0": "Desciption line 0",
         "gui.options.map_3.description_1": "Desciption line 1",
         "gui.options.map_3.description_2": "Desciption line 2",
-
         "gui.options.map_4.description_0": "Desciption line 0",
         "gui.options.map_4.description_1": "Desciption line 1",
         "gui.options.map_4.description_2": "Desciption line 2",
-        
         "gui.options.map_5.description_0": "Desciption line 0",
         "gui.options.map_5.description_1": "Desciption line 1",
         "gui.options.map_5.description_2": "Desciption line 2",
@@ -172,6 +170,14 @@
         "gui.options.maps.size": "Size",
         "gui.options.maps.description": "Description",
         "gui.options.maps.screenshots": "Screenshots",
+        "gui.options.maps.map_options": "Selection options",
+
+        "gui.options.maps.manual_description": "Select any map manually by clicking on it!",
+        "gui.options.maps.cycle_description": "The maps will cycle, so you go through all of them!",
+        "gui.options.maps.random_description": "One map will be randomly selected!",
+        "gui.options.maps.manual_selection": "Manual",
+        "gui.options.maps.cycle_selection": "Cycle",
+        "gui.options.maps.random_selection": "Random",
 
     "Teams color": "",
         "gui.teams.color.red": "Red",
@@ -201,8 +207,8 @@
         "gui.teams.pattern.lore_selected": "Your team pattern is a %s",
         "gui.teams.pattern.lore_locked": "%s is already the other team pattern.",
 
-    "gui.teams.barrel_name": "Banner edit",
-    "gui.teams.your_banner": "Your team banner",
+        "gui.teams.barrel_name": "Banner edit",
+        "gui.teams.your_banner": "Your team banner",
 
 "DO NOT TRANSLATE": "",
     "space.-1": "\uEFFF"
