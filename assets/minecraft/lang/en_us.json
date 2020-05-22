@@ -151,7 +151,7 @@
 
     "Item name": "",
         "gui.options.map": "Map",
-        "gui.options.mode": "Map",
+        "gui.options.mode": "Mode",
         "gui.options.advanced_settings": "Advanced settings",
         "gui.options.maps.manual_selection": "Manual",
         "gui.options.maps.cycle_selection": "Cycle",
