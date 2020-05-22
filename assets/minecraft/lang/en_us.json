@@ -149,6 +149,15 @@
         "gui.click_to_change": "Click to CHANGE",
         "gui.locked": "LOCKED",
 
+    "Item name": "",
+        "gui.options.map": "Map",
+        "gui.options.mode": "Map",
+        "gui.options.advanced_settings": "Advanced settings",
+        "gui.options.maps.manual_selection": "Manual",
+        "gui.options.maps.cycle_selection": "Cycle",
+        "gui.options.maps.random_selection": "Random",
+
+
     "Maps desctipion": "",
         "gui.options.map_1.description_0": "Battle on top of branches,",
         "gui.options.map_1.description_1": "right under the canopy. Be carful with",
@@ -174,10 +183,8 @@
 
         "gui.options.maps.manual_description": "Select any map manually by clicking on it!",
         "gui.options.maps.cycle_description": "The maps will cycle, so you go through all of them!",
-        "gui.options.maps.random_description": "One map will be randomly selected!",
-        "gui.options.maps.manual_selection": "Manual",
-        "gui.options.maps.cycle_selection": "Cycle",
-        "gui.options.maps.random_selection": "Random",
+        "gui.options.maps.random_description": "One map will be selected randomly!",
+
 
     "Teams color": "",
         "gui.teams.color.red": "Red",
