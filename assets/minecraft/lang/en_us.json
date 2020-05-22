@@ -147,7 +147,11 @@
         "gui.selected": "SELECTED",
         "gui.click_to_select": "Click to SELECT",
         "gui.click_to_change": "Click to CHANGE",
+        "gui.click_to_access": "Click to ACCESS",
         "gui.locked": "LOCKED",
+        "gui.currently_selected": "Currently selected",
+        "gui.home": "Home",
+        "gui.home.description": "Go back to Home page",
 
     "Item name": "",
         "gui.options.map": "Map",
@@ -156,6 +160,7 @@
         "gui.options.maps.manual_selection": "Manual",
         "gui.options.maps.cycle_selection": "Cycle",
         "gui.options.maps.random_selection": "Random",
+        "gui.options.map_page": "Map page",
 
 
     "Maps desctipion": "",
@@ -180,6 +185,7 @@
         "gui.options.maps.description": "Description",
         "gui.options.maps.screenshots": "Screenshots",
         "gui.options.maps.map_options": "Selection options",
+        "gui.options.maps.page_description": "Use this page to select a map!",
 
         "gui.options.maps.manual_description": "Select any map manually by clicking on it!",
         "gui.options.maps.cycle_description": "The maps will cycle, so you go through all of them!",
