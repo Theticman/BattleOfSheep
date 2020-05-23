@@ -151,6 +151,7 @@
             "gui.click_to_select": "Click to SELECT",
             "gui.click_to_change": "Click to CHANGE",
             "gui.click_to_access": "Click to ACCESS",
+            "gui.click_to_trigger": "Click to TRIGGER",
             "gui.locked": "LOCKED",
             "gui.home": "Home",
             "gui.random": "Random",
@@ -171,6 +172,18 @@
             "gui.options.maps.map_options": "Map selection",
             "gui.options.mode_page": "Mode page",
             "gui.options.modes.mode_options": "Mode selection",
+            "gui.options.advanced_page": "Advanced settings page",
+            "gui.options.advanced_reset": "Reset settings",
+            "gui.options.advanced.option_1.name": "Sudden death",
+            "gui.options.advanced.disabled": "Disabled",
+            "gui.options.advanced.3_min": "3 minutes",
+            "gui.options.advanced.5_min": "5 minutes",
+            "gui.options.advanced.10_min": "10 minutes",
+            "gui.options.advanced.15_min": "15 minutes",
+            "gui.options.advanced.20_min": "20 minutes",
+            "gui.options.advanced.30_min": "30 minutes",
+            "gui.options.advanced.1_hour": "1 hour",
+
 
         "GUI_OPTIONS_LORE": "",
             "gui.options.map_1.description_0": "Battle on top of branches,",
@@ -217,6 +230,11 @@
             "gui.options.modes.feature_powerups": "Powerups %s",
             "gui.options.modes.feature_events": "Events %s",
             "gui.options.modes.feature.edit": "(Edit in Advanced Options)",
+            "gui.options.advanced.page_description": "Use this page to edit advanced settings!",
+            "gui.options.advanced.reset_description": "Change all settings to default",
+            "gui.options.advanced.option_1_description": "Sudden death will start after %s",
+            "gui.options.advanced.option_1_disabled": "Sudden death will be disabled",
+
 
     "GUI_TEAMS": "",
         "GUI_TEAMS_NAME": "",
