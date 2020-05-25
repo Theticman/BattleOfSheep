@@ -110,9 +110,6 @@
     "start.error": "Error!",
     "start.error_0_0": "At least 2 ready players",
     "start.error_0_1": "needed to start!",
-    "start.error_4": "You're not in a team!",
-    "start.error_5": "You're already in that team!",
-    "start.error_6": "This team is full!",
     "start.want_to_battle": "%s wants to battle!",
     "start.starting": "Starting in:",
     "start.canceled_battle": "%s canceled battle!",
@@ -120,9 +117,6 @@
     "start.join_countdown.ready_up": "Ready up!",
     "start.join_countdown.join_team": "Join a team!",
     "start.join_countdown.battle_starts": "Battle starts in:",
-    "start.key.team_1": "Key team 1",
-    "start.key.team_2": "Key team 2",
-    "start.display_team": "The team: %s!",
 
 
 "TEAMS LOBBY": "",
@@ -134,6 +128,15 @@
     "team_lobby.player": "Player:",
     "team_lobby.players": "Players:",
     "team_lobby.edit_team.tip": "Click the barrel with your banner to edit it!",
+    "start.key.team_1": "Key team 1",
+    "start.key.team_2": "Key team 2",
+    "start.error_4": "You're not in a team!",
+    "start.error_5": "You're already in that team!",
+    "start.error_6": "This team is full!",
+    "start.team_leave": "You left",
+    "start.display_team": "The team: %s!",
+    "start.rejoin.leave_title": "You were kicked",
+    "start.rejoin.leave_subtitle": "from %s because it's now full",
 
 
 "GUI": "",
