@@ -133,10 +133,12 @@
     "start.error_4": "You're not in a team!",
     "start.error_5": "You're already in that team!",
     "start.error_6": "This team is full!",
+    "start.team_join": "You joined",
     "start.team_leave": "You left",
     "start.display_team": "The team: %s!",
     "start.rejoin.leave_title": "You were kicked",
     "start.rejoin.leave_subtitle": "from %s because it's now full",
+    "start.rejoin.auto": "Automatically rejoined the team: %s!",
 
 
 "GUI": "",
