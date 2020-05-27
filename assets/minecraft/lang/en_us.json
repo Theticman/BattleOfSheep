@@ -95,6 +95,9 @@
         "general.team_name_9_8": "Gray fire",
         "general.team_name_9_9": "Gray ninja",
 
+"LOBBY" : "",
+    "lobby.spawn.by" : "by",
+
 
 "SCOREBOARD": "",
     "scoreboard.prefix.map": "Map:",
@@ -116,6 +119,7 @@
     "start.cancel_battle": "Cancel battle",
     "start.join_countdown.ready_up": "Ready up!",
     "start.join_countdown.join_team": "Join a team!",
+    "start.join_countdown.teams_locked": "Teams locked!",
     "start.join_countdown.battle_starts": "Battle starts in:",
 
 
