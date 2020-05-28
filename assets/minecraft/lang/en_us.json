@@ -120,6 +120,8 @@
     "start.join_countdown.ready_up": "Ready up!",
     "start.join_countdown.join_team": "Join a team!",
     "start.join_countdown.teams_locked": "Teams locked!",
+    "start.join_countdown.teleporting": "Teleporting...",
+    "start.join_countdown.fight": "Teleporting...",
     "start.join_countdown.battle_starts": "Battle starts in:",
 
 
