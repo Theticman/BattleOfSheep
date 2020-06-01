@@ -95,6 +95,15 @@
         "general.team_name_9_8": "Gray fire",
         "general.team_name_9_9": "Gray ninja",
 
+    "KITS_TEAMS": "",
+        "general.kits.kit_1.name": "Warrior",
+        "general.kits.part.helmet": "%s's helmet",
+        "general.kits.part.chestplate": "%s's chest",
+        "general.kits.part.leggings": "%s's pants",
+        "general.kits.part.boots": "%s's boots",
+        "general.kits.part.sword": "%s's sword",
+        "general.kits.part.bow": "%s's bow",
+
 "LOBBY" : "",
     "lobby.spawn.by" : "by",
 
