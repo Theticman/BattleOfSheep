@@ -108,6 +108,10 @@
         
 "LOBBY" : "",
     "lobby.spawn.by" : "by",
+    "lobby.inventory.ready_not_ready": "You are %s! %s",
+    "lobby.inventory.ready": "Ready",
+    "lobby.inventory.not_ready": "Not ready",
+    "lobby.inventory.click_to_change": "(Click to change)",
 
 
 "SCOREBOARD": "",
