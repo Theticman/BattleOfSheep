@@ -319,6 +319,10 @@
             "game.kill_melee.message.1": "%1$s killed %2$s!",
             "game.kill_melee.message.2": "%2$s was killed by %1$s!",
 
+        "GAME_KILL_EXPLOSION": "",
+            "game.kill_explosion.message.1": "%1$s exploded %2$s!",
+            "game.kill_explosion.message.2": "%2$s was exploded by %1$s!",
+
 "DO NOT TRANSLATE": "",
     "space.-1": "\uEFFF"
 }
