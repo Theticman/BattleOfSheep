@@ -309,6 +309,16 @@
             "gui.teams.pattern.lore_locked": "%s is already the other team pattern.",
 
 
+"GAME": "",
+    "GAME_KILL": "",
+        "GAME_KILL_DISTANCE": "",
+            "game.kill_distance.message.1": "%1$s sniped %2$s!",
+            "game.kill_distance.message.2": "%2$s was struck by %1$s's arrow!",
+        
+        "GAME_KILL_MELEE": "",
+            "game.kill_melee.message.1": "%1$s killed %2$s!",
+            "game.kill_melee.message.2": "%2$s was killed by %1$s!",
+
 "DO NOT TRANSLATE": "",
     "space.-1": "\uEFFF"
 }
