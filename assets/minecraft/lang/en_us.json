@@ -115,9 +115,10 @@
 
 
 "SCOREBOARD": "",
-    "scoreboard.prefix.map": "Map:",
-    "scoreboard.prefix.mode": "Mode:",
-    "scoreboard.prefix.ready": "Ready:",
+    "scoreboard.prefix.map": "Map: %s",
+    "scoreboard.suffix.map_loading": "(Loading: %s%%)",   
+    "scoreboard.prefix.mode": "Mode: %s",
+    "scoreboard.prefix.ready": "Ready: %s %s",
     "scoreboard.suffix.player": "player",
     "scoreboard.suffix.players": "players",
 
