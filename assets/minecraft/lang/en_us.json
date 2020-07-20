@@ -310,6 +310,13 @@
 
 
 "GAME": "",
+    "GAME_GENERAL": "",
+        "game.died": "You died!",
+        "game.killed": "You were killed by %s",
+        "game.shot": "You were shot by %s",        
+        "game.exploded": "%s's sheep blew you up!",
+        "game.kys": "You killed yourself!",
+
     "GAME_KILL": "",
         "GAME_KILL_DISTANCE": "",
             "game.kill_distance.message.1": "%1$s sniped %2$s!",
@@ -322,6 +329,10 @@
         "GAME_KILL_EXPLOSION": "",
             "game.kill_explosion.message.1": "%1$s exploded %2$s!",
             "game.kill_explosion.message.2": "%2$s was exploded by %1$s!",
+
+        "GAME_KILL_KYS": "",
+            "game.kill_kys.message.1": "%s died!",
+            "game.kill_kys.message.2": "%s as been promoted to spectator!",
 
 "DO NOT TRANSLATE": "",
     "space.-1": "\uEFFF"
