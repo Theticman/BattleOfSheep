@@ -129,6 +129,8 @@
     "start.error": "Error!",
     "start.error_0_0": "At least 2 ready players",
     "start.error_0_1": "needed to start!",
+    "start.error_1_0": "The currently selected map",
+    "start.error_1_1": "is still loading!",
     "start.want_to_battle": "%s wants to battle!",
     "start.starting": "Starting in:",
     "start.canceled_battle": "%s canceled battle!",
