@@ -3,7 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"2": "custom/cage/crown_cage_gold",
-		"3": "custom/cage/Crown_cagetexture",
+		"3": "block/Crown_cagetexture",
 		"particle": "custom/cage/crown_cage_gold"
 	},
 	"elements": [
