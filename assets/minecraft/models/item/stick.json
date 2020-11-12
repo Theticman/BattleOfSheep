@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data":1}, "model": "item/cage/basic"},
-        { "predicate": {"custom_model_data":2}, "model": "item/cage/crown_cage"}
+        { "predicate": {"custom_model_data":2}, "model": "item/cage/crown_cage"},
+        { "predicate": {"custom_model_data":3}, "model": "item/cage/basic_2"}
       ]
 }
