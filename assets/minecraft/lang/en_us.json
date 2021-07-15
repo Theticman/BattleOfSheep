@@ -160,15 +160,23 @@
     "start.preparing_arena": "Preparing arena...",
     "start.teleporting_players": "Teleporting players...",
     "start.selecting_teams": "Selecting teams...",
+
     "start.error": "Error!",
     "start.error_0_0": "At least 2 ready players",
     "start.error_0_1": "needed to start!",
     "start.error_1_0": "The currently selected map",
     "start.error_1_1": "is still loading!",
+
     "start.bossbar.battle_starting": "Get ready! A battle is starting!",
     "start.bossbar.battle_stopped": "Starting battle was canceled!",
     "start.bossbar.join_team": "Select a team! Battle starts in %ss.",
+    "start.bossbar.lobby_join_battle": "Click the sheep to join the battle!",
+    "start.bossbar.battle_started": "A battle started without you!",
 
+    "start.title.teams_completed": "Teams completed!",
+    "start.title.new_battle": "New Battle!",
+    "start.title.opposing": "Opposing",
+    "start.title.versus": "%s VS %s",
 
 "TEAMS LOBBY": "",
     "team_lobby.randomize_team": "Randomize teams",
