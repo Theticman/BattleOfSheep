@@ -172,11 +172,15 @@
     "start.bossbar.join_team": "Select a team! Battle starts in %ss.",
     "start.bossbar.lobby_join_battle": "Click the sheep to join the battle!",
     "start.bossbar.battle_started": "A battle started without you!",
+    "start.bossbar.starting_battle": "Battle starts in %ss",
 
     "start.title.teams_completed": "Teams completed!",
     "start.title.new_battle": "New Battle!",
     "start.title.opposing": "Opposing",
-    "start.title.versus": "%s VS %s",
+    "start.title.versus": "%s versus %s",
+    "start.title.starting_in": "Starting in:",
+    "start.title.battle_starts": "Battle starts!",
+    "start.title.have_fun": "Have fun!",
 
 "TEAMS LOBBY": "",
     "team_lobby.randomize_team": "Randomize teams",
