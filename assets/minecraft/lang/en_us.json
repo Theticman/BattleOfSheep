@@ -131,6 +131,8 @@
     "lobby.inventory.ready": "Ready",
     "lobby.inventory.not_ready": "Not ready",
     "lobby.inventory.click_to_change": "(Click to change)",
+    "lobby.display.options_gui": "Select options",
+    "lobby.display.preferences_gui": "Select preferences",
 
 
 "SCOREBOARD": "",
@@ -375,6 +377,10 @@
         "GAME_KILL_EXPLOSION": "",
             "game.kill_explosion.message.1": "%1$s exploded %2$s!",
             "game.kill_explosion.message.2": "%2$s was exploded by %1$s!",
+
+        "GAME_KILL_VOID": "",
+            "game.kill_void.message.1": "%1$s thought they could fly!",
+            "game.kill_void.message.2": "%1$s forgot their wings!",
 
         "GAME_KILL_KYS": "",
             "game.kill_kys.message.1": "%s died!",
