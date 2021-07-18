@@ -402,6 +402,7 @@
         "game.killed": "You were killed by %s",
         "game.shot": "You were shot by %s",        
         "game.exploded": "%s's sheep blew you up!",
+        "game.void": "You went to far down in the void!",
         "game.kys": "You killed yourself!",
 
     "GAME_KILL": "",
