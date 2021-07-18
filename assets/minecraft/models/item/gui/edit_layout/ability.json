@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "custom/gui/kits/kits"
+        "layer0": "custom/gui/edit_layout/ability"
     }
 }

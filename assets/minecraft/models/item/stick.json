@@ -4,8 +4,12 @@
         "layer0": "item/stick"
     },
     "overrides": [
-        { "predicate": {"custom_model_data":1}, "model": "item/cage/basic"},
-        { "predicate": {"custom_model_data":2}, "model": "item/cage/crown_cage"},
-        { "predicate": {"custom_model_data":3}, "model": "item/cage/basic_2"}
+        { "predicate": {"custom_model_data":1}, "model": "item/gui/edit_layout/melee_weapon"},
+        { "predicate": {"custom_model_data":2}, "model": "item/gui/edit_layout/distance_weapon"},
+        { "predicate": {"custom_model_data":3}, "model": "item/gui/edit_layout/ability"},
+
+        { "predicate": {"custom_model_data":101}, "model": "item/cage/basic"},
+        { "predicate": {"custom_model_data":102}, "model": "item/cage/crown_cage"},
+        { "predicate": {"custom_model_data":103}, "model": "item/cage/basic_2"}
       ]
 }

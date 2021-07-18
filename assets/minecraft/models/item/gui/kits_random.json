@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "custom/gui/maps/maps"
+        "layer0": "custom/gui/kits/kits_random"
     }
 }
