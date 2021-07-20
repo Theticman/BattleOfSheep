@@ -7,7 +7,7 @@
         { "predicate": {"custom_model_data":1}, "model": "item/sheep/red"},
         { "predicate": {"custom_model_data":2}, "model": "item/sheep/white"},
         { "predicate": {"custom_model_data":3}, "model": "item/sheep/lime"},
-        { "predicate": {"custom_model_data":4}, "model": "item/sheep/yellow"},
+        { "predicate": {"custom_model_data":4}, "model": "item/sheep/pink"},
         { "predicate": {"custom_model_data":5}, "model": "item/sheep/blue"},
         { "predicate": {"custom_model_data":6}, "model": "item/sheep/brown"},
         { "predicate": {"custom_model_data":7}, "model": "item/sheep/orange"}

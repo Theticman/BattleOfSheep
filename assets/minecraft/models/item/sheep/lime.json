@@ -1,7 +1,7 @@
 {
     "parent": "item/sheep/base",
     "textures": {
-        "0": "custom/sheep/lime_sheep",
+        "0": "custom/sheep/lime",
         "1": "custom/hide"
     }
 }
