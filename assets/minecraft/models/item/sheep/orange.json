@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/sheep/base",
 	"textures": {
-		"0": "custom/sheep/orange",
-		"1": "custom/hide"
+		"1": "custom/sheep/orange",
+		"2": "custom/hide"
 	}
 }
