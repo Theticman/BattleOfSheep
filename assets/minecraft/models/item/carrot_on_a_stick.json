@@ -6,6 +6,9 @@
     "overrides": [
         { "predicate": {"custom_model_data":1}, "model": "item/inventory/ready"},
         { "predicate": {"custom_model_data":2}, "model": "item/inventory/not_ready"},
-        { "predicate": {"custom_model_data":3}, "model": "item/inventory/spectate"}
+        { "predicate": {"custom_model_data":3}, "model": "item/inventory/spectate"},
+
+        { "predicate": {"custom_model_data":100}, "model": "item/ability/sprayer_loading"},
+        { "predicate": {"custom_model_data":101}, "model": "item/ability/sprayer"}
       ]
 }

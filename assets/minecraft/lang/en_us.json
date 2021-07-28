@@ -123,6 +123,9 @@
 	    "general.kits.part.cobweb": "%s's cobweb",
 	    "general.kits.part.scaffolding": "%s's Scaffolding",
 
+    "GENERAL ABILITY": "",
+        "ability.actionbar.time_left": "Ability time left: %s.%ss",
+
     "GENERAL_OTHERS": "",
         "general.tellraw_bos_prefix": "[%s] %s",
         "general.abreviation": "BOS",
