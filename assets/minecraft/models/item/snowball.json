@@ -10,6 +10,8 @@
         { "predicate": {"custom_model_data":4}, "model": "item/sheep/pink"},
         { "predicate": {"custom_model_data":5}, "model": "item/sheep/blue"},
         { "predicate": {"custom_model_data":6}, "model": "item/sheep/brown"},
-        { "predicate": {"custom_model_data":7}, "model": "item/sheep/orange"}
+        { "predicate": {"custom_model_data":7}, "model": "item/sheep/orange"},
+        { "predicate": {"custom_model_data":7}, "model": "item/sheep/black"},
+        { "predicate": {"custom_model_data":7}, "model": "item/sheep/green"}
       ]
 }
