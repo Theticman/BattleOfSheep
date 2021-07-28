@@ -124,6 +124,8 @@
 	    "general.kits.part.scaffolding": "%s's Scaffolding",
 
     "GENERAL ABILITY": "",
+        "ability.used": "Ability used!",
+        "ability.sprayer.description": "Spray arrows with your crossbow!",
         "ability.actionbar.time_left": "Ability time left: %s.%ss",
 
     "GENERAL_OTHERS": "",
