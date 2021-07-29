@@ -13,6 +13,6 @@
         { "predicate": {"custom_model_data":7}, "model": "item/sheep/orange"},
         { "predicate": {"custom_model_data":8}, "model": "item/sheep/black"},
         { "predicate": {"custom_model_data":9}, "model": "item/sheep/green"},
-        { "predicate": {"custom_model_data":9}, "model": "item/sheep/yellow"}
+        { "predicate": {"custom_model_data":10}, "model": "item/sheep/yellow"}
       ]
 }
