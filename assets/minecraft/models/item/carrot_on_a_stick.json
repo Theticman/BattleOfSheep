@@ -9,6 +9,8 @@
         { "predicate": {"custom_model_data":3}, "model": "item/inventory/spectate"},
 
         { "predicate": {"custom_model_data":100}, "model": "item/ability/sprayer_loading"},
-        { "predicate": {"custom_model_data":101}, "model": "item/ability/sprayer"}
+        { "predicate": {"custom_model_data":101}, "model": "item/ability/sprayer"},
+        { "predicate": {"custom_model_data":102}, "model": "item/ability/offence_loading"},
+        { "predicate": {"custom_model_data":103}, "model": "item/ability/offence"}
       ]
 }
