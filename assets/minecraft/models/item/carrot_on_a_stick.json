@@ -10,7 +10,13 @@
 
         { "predicate": {"custom_model_data":101}, "model": "item/ability/warrior"},
         { "predicate": {"custom_model_data":102}, "model": "item/ability/archer"},
+        { "predicate": {"custom_model_data":103}, "model": "item/ability/healer"},
+        { "predicate": {"custom_model_data":104}, "model": "item/ability/ninja"},
+        { "predicate": {"custom_model_data":105}, "model": "item/ability/builder"},
         { "predicate": {"custom_model_data":201}, "model": "item/ability/warrior_loading"},
-        { "predicate": {"custom_model_data":202}, "model": "item/ability/archer_loading"}
+        { "predicate": {"custom_model_data":202}, "model": "item/ability/archer_loading"},
+        { "predicate": {"custom_model_data":203}, "model": "item/ability/healer_loading"},
+        { "predicate": {"custom_model_data":204}, "model": "item/ability/ninja_loading"},
+        { "predicate": {"custom_model_data":205}, "model": "item/ability/builder_loading"}
       ]
 }
