@@ -118,10 +118,11 @@
 
     "GENERAL_ABILITY": "",
         "ability.used": "Ability used!",
+        "ability.error_reloading": "Ability is reloading!",
         "ability.sprayer.description": "Spray arrows with your crossbow!",
         "ability.actionbar.time_left": "Ability time left: %s.%ss",
-        "ability.click": "%s ability (%s to activate)",
-        "ability.reloading": "%s ability is reloading",
+        "ability.click": "%s (%s to trigger)",
+        "ability.reloading": "%s is reloading",
 
     "GENERAL_OTHERS": "",
         "general.tellraw_bos_prefix": "[%s] %s",
