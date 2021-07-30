@@ -111,10 +111,12 @@
         "general.kits.part.boots": "%s's boots",
         "general.kits.part.ability": "%s's ability",
         "general.kits.part.sword": "%s's sword",
+        "general.kits.part.axe": "%s's axe",
         "general.kits.part.bow": "%s's bow",
         "general.kits.part.arrow": "%s's arrow",
         "general.kits.part.crossbow": "%s's crossbow",
-	    "general.kits.part.scaffolding": "%s's Scaffolding",
+	    "general.kits.part.scaffolding": "%s's scaffolding",
+        "general.kits.part.shield": "%s's shield",
 
     "GENERAL_ABILITY": "",
         "ability.used": "Ability used!",
