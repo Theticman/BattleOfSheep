@@ -8,6 +8,17 @@
         { "predicate": {"custom_model_data":2}, "model": "item/gui/edit_layout/distance_weapon"},
         { "predicate": {"custom_model_data":3}, "model": "item/gui/edit_layout/ability"},
 
+        { "predicate": {"custom_model_data":11}, "model": "item/gui/maps/unselected/map_1"},
+        { "predicate": {"custom_model_data":12}, "model": "item/gui/maps/unselected/map_2"},
+        { "predicate": {"custom_model_data":13}, "model": "item/gui/maps/unselected/map_3"},
+        { "predicate": {"custom_model_data":14}, "model": "item/gui/maps/unselected/map_4"},
+        { "predicate": {"custom_model_data":15}, "model": "item/gui/maps/unselected/map_5"},
+        { "predicate": {"custom_model_data":16}, "model": "item/gui/maps/unselected/map_6"},
+        { "predicate": {"custom_model_data":17}, "model": "item/gui/maps/unselected/map_7"},
+        { "predicate": {"custom_model_data":18}, "model": "item/gui/maps/unselected/map_8"},
+        { "predicate": {"custom_model_data":19}, "model": "item/gui/maps/unselected/map_9"},
+
+
         { "predicate": {"custom_model_data":101}, "model": "item/cage/basic"},
         { "predicate": {"custom_model_data":102}, "model": "item/cage/crown_cage"},
         { "predicate": {"custom_model_data":103}, "model": "item/cage/basic_2"}
