@@ -8,6 +8,12 @@
         { "predicate": {"custom_model_data":2}, "model": "item/inventory/not_ready"},
         { "predicate": {"custom_model_data":3}, "model": "item/inventory/spectate"},
 
+        { "predicate": {"custom_model_data":11}, "model": "item/inventory/leave_lobby"},
+        { "predicate": {"custom_model_data":12}, "model": "item/inventory/leave_team"},
+        { "predicate": {"custom_model_data":13}, "model": "item/inventory/ready"},
+        { "predicate": {"custom_model_data":14}, "model": "item/inventory/team_locked"},
+        { "predicate": {"custom_model_data":15}, "model": "item/inventory/not_ready"},
+
         { "predicate": {"custom_model_data":101}, "model": "item/ability/warrior"},
         { "predicate": {"custom_model_data":102}, "model": "item/ability/archer"},
         { "predicate": {"custom_model_data":103}, "model": "item/ability/healer"},
