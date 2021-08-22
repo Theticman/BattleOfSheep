@@ -3,5 +3,9 @@
 		"sounds": [
 			"music/music_1"
 			]
+	},
+	"entity.bat.ambient": {
+		"replace": true,
+		"sounds": []
 	}
 }

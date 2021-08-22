@@ -246,7 +246,7 @@
             "gui.cycle": "Cycle",
             "gui.manual": "Manual",
         "GUI_GENERAL_LORE": "",
-            "gui.currently_selected": "Currently selected:",
+            "gui.currently_selected": "Currently selected: %s",
             "gui.selected_randomly": "Will be selected randomly",
             "gui.description": "Description:",
             "gui.home.description": "Go back to Home page",
@@ -449,6 +449,17 @@
         "spectator.spectating": "You are currently spectating the game! Click %s to go back to the lobby.",
         "spectator.click_here": "HERE",
         "spectator.click.hover": "Click to go back to the lobby!",
+
+    "GAME_STRUCTURE": "",
+        "structure.item": "Structure %s",
+        "structure.item.place_to_use": "(Place to use)",
+        "structure.item.description_0": "Place this item on the ground in order to",
+        "structure.item.description_1": "%s or %s a structure!",
+        "structure.item.description.create": "create",
+        "structure.item.description.upgrade": "upgrade",
+
+        "structure.error.invalid_position": "Place on the ground!",
+        "structure.error.maxed": "This structure is already fully upgraded!",
 
 "DO NOT TRANSLATE": "",
     "space.-1": "\uEFFF"

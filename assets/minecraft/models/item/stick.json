@@ -4,10 +4,6 @@
         "layer0": "item/stick"
     },
     "overrides": [
-        { "predicate": {"custom_model_data":1}, "model": "item/gui/edit_layout/melee_weapon"},
-        { "predicate": {"custom_model_data":2}, "model": "item/gui/edit_layout/distance_weapon"},
-        { "predicate": {"custom_model_data":3}, "model": "item/gui/edit_layout/ability"},
-
         { "predicate": {"custom_model_data":11}, "model": "item/gui/maps/unselected/map_1"},
         { "predicate": {"custom_model_data":12}, "model": "item/gui/maps/unselected/map_2"},
         { "predicate": {"custom_model_data":13}, "model": "item/gui/maps/unselected/map_3"},
