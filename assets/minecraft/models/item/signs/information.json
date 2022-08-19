@@ -1,0 +1,40 @@
+{
+	"credit": "Made by Theticman",
+	"textures": {
+		"0": "custom/signs/information",
+		"particle": "custom/signs/information"
+	},
+	"elements": [
+		{
+			"from": [-9.75, 4.5, 7.5],
+			"to": [19.75, 10.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.25, 4.5, 7.5]},
+			"faces": {
+				"north": {"uv": [2.70423, 2.25352, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 3.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 3.5], "texture": "#missing"},
+				"west": {"uv": [15.77465, 2.25352, 16, 16], "texture": "#0"},
+				"up": {"uv": [2.59155, 2.25352, 16, 3.42958], "texture": "#0"},
+				"down": {"uv": [2.8169, 14.82394, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [19.75, 4.5, 7.5],
+			"to": [25.75, 11.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.25, 4.5, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.70423, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.16197, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 3.5], "texture": "#missing"},
+				"west": {"uv": [2.47887, 0, 2.64085, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.70423, 1.17606], "texture": "#0"},
+				"down": {"uv": [0, 14.82394, 2.70423, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"scale": [3, 3, 3]
+		}
+	}
+}
