@@ -6,6 +6,7 @@
     "overrides": [
         { "predicate": {"custom_model_data":1}, "model": "item/signs/information"},
         { "predicate": {"custom_model_data":2}, "model": "item/signs/information_1"},
+        { "predicate": {"custom_model_data":3}, "model": "item/signs/kits"},
 
         { "predicate": {"custom_model_data":11}, "model": "item/gui/maps/unselected/map_1"},
         { "predicate": {"custom_model_data":12}, "model": "item/gui/maps/unselected/map_2"},
