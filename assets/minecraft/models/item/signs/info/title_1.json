@@ -1,0 +1,14 @@
+{
+	"credit": "Made by Theticman",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "custom/signs/info/title_1"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -0.5],
+			"scale": [2, 2, 1]
+		}
+	}
+}

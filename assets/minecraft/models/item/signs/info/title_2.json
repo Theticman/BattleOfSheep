@@ -2,12 +2,13 @@
 	"credit": "Made by Theticman",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "custom/signs/information"
+		"layer0": "custom/signs/info/title_2"
 	},
 	"display": {
 		"fixed": {
 			"rotation": [0, 180, 0],
-			"scale": [4, 1, 1]
+			"translation": [0, 0, -0.5],
+			"scale": [2, 2, 1]
 		}
 	}
 }
