@@ -1,0 +1,1876 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/0_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00a8\u00a9\u00aa"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/0_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ab\u00ac\u00ad"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/1_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ae\u00af\u00b0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/1_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00b1\u00b2\u00b3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/2_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00b4\u00b5\u00b6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/2_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00b7\u00b8\u00b9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/3_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ba\u00bb\u00bc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/3_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00bd\u00be\u00bf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/4_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00c0\u00c1\u00c2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/4_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00c3\u00c4\u00c5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/5_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00c6\u00c7\u00c8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/5_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00c9\u00ca\u00cb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/6_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00cc\u00cd\u00ce"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/6_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00cf\u00d0\u00d1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/7_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00d2\u00d3\u00d4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/7_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00d5\u00d6\u00d7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/8_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00d8\u00d9\u00da"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/8_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00db\u00dc\u00dd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/9_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00de\u00df\u00e0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/9_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00e1\u00e2\u00e3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/10_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00e4\u00e5\u00e6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/10_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00e7\u00e8\u00e9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/11_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ea\u00eb\u00ec"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/11_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ed\u00ee\u00ef"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/12_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00f0\u00f1\u00f2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/12_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00f3\u00f4\u00f5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/13_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00f6\u00f7\u00f8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/13_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00f9\u00fa\u00fb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/14_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u00fc\u00fd\u00fe"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/14_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u00ff\u0100\u0101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/15_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0102\u0103\u0104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/15_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0105\u0106\u0107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/16_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0108\u0109\u010a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/16_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u010b\u010c\u010d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/17_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u010e\u010f\u0110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/17_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0111\u0112\u0113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/18_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0114\u0115\u0116"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/18_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0117\u0118\u0119"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/19_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u011a\u011b\u011c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/19_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u011d\u011e\u011f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/20_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0120\u0121\u0122"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/20_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0123\u0124\u0125"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/21_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0126\u0127\u0128"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/21_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0129\u012a\u012b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/22_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u012c\u012d\u012e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/22_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u012f\u0130\u0131"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/23_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0132\u0133\u0134"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/23_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0135\u0136\u0137"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/24_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0138\u0139\u013a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/24_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u013b\u013c\u013d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/25_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u013e\u013f\u0140"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/25_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0141\u0142\u0143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/26_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0144\u0145\u0146"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/26_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0147\u0148\u0149"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/27_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u014a\u014b\u014c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/27_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u014d\u014e\u014f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/28_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0150\u0151\u0152"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/28_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0153\u0154\u0155"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/29_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0156\u0157\u0158"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/29_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0159\u015a\u015b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/30_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u015c\u015d\u015e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/30_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u015f\u0160\u0161"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/31_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0162\u0163\u0164"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/31_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0165\u0166\u0167"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/32_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0168\u0169\u016a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/32_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u016b\u016c\u016d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/33_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u016e\u016f\u0170"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/33_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0171\u0172\u0173"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/34_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0174\u0175\u0176"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/34_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0177\u0178\u0179"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/35_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u017a\u017b\u017c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/35_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u017d\u017e\u017f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/36_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0180\u0181\u0182"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/36_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0183\u0184\u0185"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/37_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0186\u0187\u0188"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/37_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0189\u018a\u018b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/38_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u018c\u018d\u018e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/38_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u018f\u0190\u0191"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/39_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0192\u0193\u0194"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/39_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0195\u0196\u0197"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/40_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0198\u0199\u019a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/40_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u019b\u019c\u019d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/41_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u019e\u019f\u01a0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/41_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01a1\u01a2\u01a3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/42_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01a4\u01a5\u01a6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/42_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01a7\u01a8\u01a9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/43_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01aa\u01ab\u01ac"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/43_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01ad\u01ae\u01af"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/44_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01b0\u01b1\u01b2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/44_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01b3\u01b4\u01b5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/45_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01b6\u01b7\u01b8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/45_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01b9\u01ba\u01bb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/46_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01bc\u01bd\u01be"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/46_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01bf\u01c0\u01c1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/47_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01c2\u01c3\u01c4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/47_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01c5\u01c6\u01c7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/48_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01c8\u01c9\u01ca"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/48_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01cb\u01cc\u01cd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/49_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01ce\u01cf\u01d0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/49_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01d1\u01d2\u01d3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/50_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01d4\u01d5\u01d6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/50_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01d7\u01d8\u01d9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/51_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01da\u01db\u01dc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/51_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01dd\u01de\u01df"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/52_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01e0\u01e1\u01e2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/52_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01e3\u01e4\u01e5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/53_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01e6\u01e7\u01e8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/53_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01e9\u01ea\u01eb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/54_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01ec\u01ed\u01ee"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/54_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01ef\u01f0\u01f1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/55_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01f2\u01f3\u01f4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/55_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01f5\u01f6\u01f7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/56_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01f8\u01f9\u01fa"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/56_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u01fb\u01fc\u01fd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/57_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u01fe\u01ff\u0200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/57_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0201\u0202\u0203"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/58_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0204\u0205\u0206"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/58_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0207\u0208\u0209"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/59_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u020a\u020b\u020c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/59_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u020d\u020e\u020f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/60_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0210\u0211\u0212"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/60_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0213\u0214\u0215"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/61_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0216\u0217\u0218"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/61_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0219\u021a\u021b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/62_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u021c\u021d\u021e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/62_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u021f\u0220\u0221"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/63_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0222\u0223\u0224"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/63_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0225\u0226\u0227"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/64_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0228\u0229\u022a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/64_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u022b\u022c\u022d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/65_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u022e\u022f\u0230"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/65_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0231\u0232\u0233"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/66_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0234\u0235\u0236"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/66_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0237\u0238\u0239"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/67_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u023a\u023b\u023c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/67_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u023d\u023e\u023f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/68_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0240\u0241\u0242"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/68_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0243\u0244\u0245"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/69_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0246\u0247\u0248"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/69_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0249\u024a\u024b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/70_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u024c\u024d\u024e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/70_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u024f\u0250\u0251"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/71_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0252\u0253\u0254"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/71_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0255\u0256\u0257"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/72_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0258\u0259\u025a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/72_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u025b\u025c\u025d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/73_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u025e\u025f\u0260"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/73_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0261\u0262\u0263"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/74_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0264\u0265\u0266"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/74_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0267\u0268\u0269"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/75_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u026a\u026b\u026c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/75_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u026d\u026e\u026f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/76_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0270\u0271\u0272"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/76_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0273\u0274\u0275"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/77_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0276\u0277\u0278"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/77_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0279\u027a\u027b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/78_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u027c\u027d\u027e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/78_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u027f\u0280\u0281"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/79_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0282\u0283\u0284"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/79_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0285\u0286\u0287"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/80_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0288\u0289\u028a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/80_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u028b\u028c\u028d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/81_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u028e\u028f\u0290"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/81_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0291\u0292\u0293"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/82_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0294\u0295\u0296"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/82_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0297\u0298\u0299"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/83_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u029a\u029b\u029c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/83_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u029d\u029e\u029f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/84_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02a0\u02a1\u02a2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/84_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02a3\u02a4\u02a5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/85_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02a6\u02a7\u02a8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/85_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02a9\u02aa\u02ab"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/86_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02ac\u02ad\u02ae"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/86_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02af\u02b0\u02b1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/87_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02b2\u02b3\u02b4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/87_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02b5\u02b6\u02b7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/88_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02b8\u02b9\u02ba"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/88_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02bb\u02bc\u02bd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/89_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02be\u02bf\u02c0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/89_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02c1\u02c2\u02c3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/90_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02c4\u02c5\u02c6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/90_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02c7\u02c8\u02c9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/91_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02ca\u02cb\u02cc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/91_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02cd\u02ce\u02cf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/92_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02d0\u02d1\u02d2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/92_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02d3\u02d4\u02d5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/93_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02d6\u02d7\u02d8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/93_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02d9\u02da\u02db"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/94_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02dc\u02dd\u02de"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/94_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02df\u02e0\u02e1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/95_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02e2\u02e3\u02e4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/95_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02e5\u02e6\u02e7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/96_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02e8\u02e9\u02ea"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/96_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02eb\u02ec\u02ed"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/97_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02ee\u02ef\u02f0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/97_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02f1\u02f2\u02f3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/98_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02f4\u02f5\u02f6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/98_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02f7\u02f8\u02f9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/99_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u02fa\u02fb\u02fc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/99_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u02fd\u02fe\u02ff"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/100_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0300\u0301\u0302"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/100_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0303\u0304\u0305"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/101_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0306\u0307\u0308"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/101_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0309\u030a\u030b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/102_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u030c\u030d\u030e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/102_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u030f\u0310\u0311"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/103_0.png",
+            "ascent": 40.0,
+            "height": 40.0,
+            "chars": [
+                "\u0312\u0313\u0314"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:font/logo/103_1.png",
+            "ascent": 0.0,
+            "height": 40.0,
+            "chars": [
+                "\u0315\u0316\u0317"
+            ]
+        }
+    ]
+}
