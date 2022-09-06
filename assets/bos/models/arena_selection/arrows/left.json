@@ -1,0 +1,12 @@
+{
+	"credit": "Made by Theticman",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "bos:arena_selection/arrows/left"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

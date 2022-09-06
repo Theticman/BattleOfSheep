@@ -1,0 +1,12 @@
+{
+	"credit": "Made by Theticman",
+	"parent": "bos:arena_selection/borders/selected",
+	"textures": {
+		"0": "bos:arena_selection/borders/adjacent"
+	},
+	"display": {
+		"head": {
+			"scale": [0.667, 0.667, 0.667]
+		}
+	}
+}

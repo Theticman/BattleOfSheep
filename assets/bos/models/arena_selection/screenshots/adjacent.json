@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Theticman",
+	"parent": "bos:arena_selection/screenshots/selected",
+	"display": {
+		"head": {
+			"scale": [0.667, 0.667, 0.667]
+		}
+	}
+}

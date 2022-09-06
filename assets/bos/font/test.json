@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "bos:font/background.png",
+            "height": 200,
+            "ascent": 93,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "bos:generic/screen.png",
+            "height": 256,
+            "ascent": 128,
+            "chars": [
+                "\u0002"
+            ]
+        }
+    ]
+}

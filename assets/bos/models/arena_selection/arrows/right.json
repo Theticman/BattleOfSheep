@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Theticman",
+	"parent": "bos:arena_selection/arrows/left",
+	"textures": {
+		"layer0": "bos:arena_selection/arrows/right"
+	}
+}
